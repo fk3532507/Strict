@@ -190,6 +190,10 @@ color: #acacac;
             margin: 4px;
             list-style: none;
         }
+
+        .col-md-4 {
+            padding-left: 89px;
+        }
         
         input[type="checkbox"] {}
 
